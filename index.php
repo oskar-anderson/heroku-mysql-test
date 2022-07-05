@@ -37,6 +37,8 @@
    $mysqli -> close();
 
    ?>
+
+   <a href="login.php">Go to login</a>
 </body>
 </html>
 
